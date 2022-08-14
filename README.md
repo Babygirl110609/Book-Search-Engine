@@ -25,6 +25,7 @@ Heroku
 
 ## Snapshot
 
+<img width="1439" alt="Screen Shot 2022-08-13 at 10 11 14 PM" src="https://user-images.githubusercontent.com/101305146/184521532-c2a0356f-ee31-426a-9d90-b27566cb2004.png">
 
 
 ## Table Of Contents
